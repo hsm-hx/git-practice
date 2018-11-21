@@ -1,2 +1,2 @@
 Hello, Git!
-This is test for understand fast-forward.
+This is test for creating branch on checkouted commit.
