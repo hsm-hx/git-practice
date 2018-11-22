@@ -1,2 +1,4 @@
 Hello, Git!
 This is test for creating branch on checkouted commit.
+
+This is test for stash.
