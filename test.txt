@@ -1,8 +1,0 @@
-This is patch-1.
-
-Hello, Git!
-This is test for creating branch on checkouted commit.
-
-This is test for stash.
-
-This is patch-2.
