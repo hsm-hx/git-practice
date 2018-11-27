@@ -10,7 +10,7 @@ int main(void){
 
   cin >> a >> b >> c;
 
-  cout << diff(a, b) + c << endl;
+  cout << add(a, b) + c << endl;
 
   return 0;
 }
