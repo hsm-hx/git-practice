@@ -6,11 +6,11 @@ int diff(int a, int b){
 }
 
 int main(void){
-  int a, b;
+  int a, b, c;
 
-  cin >> a >> b;
+  cin >> a >> b >> c;
 
-  cout << diff(a, b) << endl;
+  cout << diff(a, b) + c << endl;
 
   return 0;
 }
